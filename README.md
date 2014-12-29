@@ -38,6 +38,12 @@ sudo pear install phpdoc/phpDocumentor
 Lancer PHPUnit, phpDocumentor
 ----------------------------------
 
+###Changer les droits et aller dans le répertoire calculator
+```
+sudo chmod 777 -R calculator
+cd calculator
+```
+
 ###PHPUnit
 
 ```
@@ -48,5 +54,5 @@ phpunit -c . --coverage-html doc/coverage
 
 
 ```
-phpdoc -t doc/api
+phpdoc -t doc/api -d .
 ```
