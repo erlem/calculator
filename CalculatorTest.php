@@ -13,7 +13,6 @@
  * send a note to license@php.net so we can mail you a copy immediately.
  *
  * @category   CategoryName
- * @package    PackageName
  * @author     Original Author <author@example.com>
  * @author     Another Author <another@example.com>
  * @copyright  1997-2005 The PHP Group
