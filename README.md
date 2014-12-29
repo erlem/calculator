@@ -4,6 +4,8 @@ Calculator
 Cloner le projet
 ----------------------------------
 
+Bienvenue sur le projet "Calculator". Ce projet a un but pédagogique, il permet de comprendre les tests unitaires, la génération de documentation et permet de s'interfacer avec Jenkins et Sonar pour la construction d'usine logicielle.
+
 ```
 sudo git clone https://github.com/erlem/calculator.git
 ```
@@ -20,6 +22,8 @@ sudo apt-get install php-pear
 
 Installer PHPUnit
 ----------------------------------
+
+PHPUnit est un framework de tests unitaires open source dédié au langage de programmation PHP. Crée par Sebastian Bergmann,il intègre les concepts communs aux bibliothèques de tests unitaires xUnit.
 
 ```
 sudo apt-get install phpunit
