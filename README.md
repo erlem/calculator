@@ -38,14 +38,13 @@ sudo pear install phpdoc/phpDocumentor
 Lancer PHPUnit, phpDocumentor
 ----------------------------------
 
-#PHPUnit
+###PHPUnit
 
 ```
 phpunit -c . --coverage-html doc/coverage
-phpunit CalculatorTest.php
 ```
 
-#phpDocumentor
+###phpDocumentor
 
 
 ```
